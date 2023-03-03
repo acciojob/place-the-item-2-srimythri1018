@@ -1,5 +1,7 @@
-body{
+.holder{
 	display: flex;
-	
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;	
 }
 /* Your CSS Code here. */
